@@ -1,7 +1,7 @@
 .experience__container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  grid-template-columns: 1fr;
+  gap: 3rem;
 }
 
 .experience__container > div {
@@ -26,7 +26,8 @@
 
 .experience__content {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  padding-left: 10rem;
+  grid-template-columns: 1fr 1fr 1fr;
   row-gap: 2rem;
 }
 
@@ -63,6 +64,6 @@
   }
   .experience__container > div {
     width: 100%;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
   }
 }
