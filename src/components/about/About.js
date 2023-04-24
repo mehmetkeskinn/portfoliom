@@ -31,10 +31,18 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a front-end developer with a passion for creating dynamic,
-            user-friendly web applications using JavaScript and React. I utilize
-            JavaScript, React, HTML, CSS, TailwindCSS to deliver best user
-            experience available on front-end.
+            As a front-end developer with 3 years of experience, based in
+            Toronto, Ontario, I am skilled in creating dynamic and user-friendly
+            web applications using JavaScript and React. With experience in
+            HTML, CSS, TailwindCSS, and feature flag-based deployment, I am
+            proficient in building and deploying high-performing, scalable React
+            applications. Additionally, my expertise in A/B testing, unit
+            testing, and collaborating with multiple teams allows me to
+            effectively communicate technical concepts to both technical and
+            non-technical stakeholders. Passionate about technology, I am
+            continuously seeking opportunities to expand my knowledge and
+            expertise in React development while staying up-to-date with the
+            latest development trends and technologies.
           </p>
         </div>
       </div>
